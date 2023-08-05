@@ -1,0 +1,371 @@
+,File Name with extension,File Name,Term,Span,Class
+434,sentence_1918,sentence_1918.txt,hypocalcaemia,"( 101,114)",Signs and Symptoms
+626,sentence_417,sentence_417.txt,xerophthalmia,"( 25,38)",Signs and Symptoms
+828,sentence_764,sentence_764.txt,rheumatoid arthritis,"( 214,234)",Associated Conditions
+1366,sentence_2306,sentence_2306.txt,renal tubular acidosis,"( 158,180)",Associated Conditions
+40,sentence_1040,sentence_1040.txt,inflammatory arthritis,"( 132,154)",Associated Conditions
+1785,sentence_2601,sentence_2601.txt,"strongly positive ANA of 1:3,200","( 29,61)",Diagnostic Tests
+105,sentence_1164,sentence_1164.txt,women,"( 60,65)",Risk Factors
+406,sentence_1849,sentence_1849.txt,parotid enlargement,"( 120,139)",Signs and Symptoms
+805,sentence_710,sentence_710.txt,DED,"( 160,163)",Signs and Symptoms
+594,sentence_372,sentence_372.txt,RF,"( 153,155)",Diagnostic Tests
+89,sentence_1130,sentence_1130.txt,fatigue.,"( 122,130)",Signs and Symptoms
+1184,sentence_2141,sentence_2141.txt,fluorescein staining test,"( 178,203)",Diagnostic Tests
+1006,sentence_2045,sentence_2045.txt,salivary proteomics,"( 23,42)",Diagnostic Tests
+1317,sentence_2274,sentence_2274.txt,salivary gland biopsy,"( 150,171)",Diagnostic Tests
+1483,sentence_2382,sentence_2382.txt,discoid lupus erythematosus,"( 90,117)",Associated Conditions
+972,sentence_2028,sentence_2028.txt,hiatus hernia,"( 122,135)",Associated Conditions
+1815,sentence_2644,sentence_2644.txt,arthritis,"( 43,52)",Signs and Symptoms
+915,sentence_994,sentence_994.txt,xerophthalmia,"( 210,223)",Signs and Symptoms
+267,sentence_1577,sentence_1577.txt,sialography,"( 125,136)",Diagnostic Tests
+1378,sentence_2311,sentence_2311.txt,positive anti-nuclear antibody.,"( 79,110)",Diagnostic Tests
+1092,sentence_2101,sentence_2101.txt,biopsies of salivary glands,"( 120,147)",Diagnostic Tests
+221,sentence_1438,sentence_1438.txt,sicca,"( 84,89)",Signs and Symptoms
+705,sentence_60,sentence_60.txt,chronic inflammation,"( 108,128)",Signs and Symptoms
+689,sentence_555,sentence_555.txt,hyposalivation,"( 56,70)",Signs and Symptoms
+758,sentence_668,sentence_668.txt,keratitis,"( 100,109)",Signs and Symptoms
+28,sentence_1024,sentence_1024.txt,B-cell lymhomas.,"( 79,95)",Associated Conditions
+173,sentence_1355,sentence_1355.txt,sicca symptom,"( 99,112)",Signs and Symptoms
+1655,sentence_2482,sentence_2482.txt,lymphoma,"( 253,261)",Associated Conditions
+707,sentence_606,sentence_606.txt,Sonoelastography,"( 0,16)",Diagnostic Tests
+1666,sentence_2487,sentence_2487.txt,salivary gland ultrasonography.,"( 123,154)",Diagnostic Tests
+1108,sentence_2111,sentence_2111.txt,extraglandular manifestations,"( 17,46)",Associated Conditions
+24,sentence_1023,sentence_1023.txt,fatigue,"( 117,124)",Signs and Symptoms
+1503,sentence_2389,sentence_2389.txt,sicca symptoms,"( 116,130)",Signs and Symptoms
+1338,sentence_2290,sentence_2290.txt,hypokalemic paralysis,"( 9,30)",Associated Conditions
+245,sentence_1489,sentence_1489.txt,sialoadenitis,"( 99,112)",Signs and Symptoms
+486,sentence_234,sentence_234.txt,scintigraphy.,"( 136,149)",Diagnostic Tests
+852,sentence_816,sentence_816.txt,chronic kidney disease.,"( 183,206)",Associated Conditions
+671,sentence_520,sentence_520.txt,cardiovascular disease.,"( 356,379)",Associated Conditions
+432,sentence_1913,sentence_1913.txt,sialadenitis,"( 158,170)",Signs and Symptoms
+1254,sentence_2212,sentence_2212.txt,decreased non-stimulated salivary flow rate,"( 104,147)",Diagnostic Tests
+355,sentence_1726,sentence_1726.txt,rheumatoid arthritis,"( 156,176)",Associated Conditions
+1370,sentence_2309,sentence_2309.txt,positive rheumatoid factor,"( 118,144)",Diagnostic Tests
+1048,sentence_2075,sentence_2075.txt,fever,"( 59,64)",Signs and Symptoms
+525,sentence_278,sentence_278.txt,serologies,"( 21,31)",Diagnostic Tests
+990,sentence_2033,sentence_2033.txt,EpEX,"( 64,68)",Diagnostic Tests
+205,sentence_1421,sentence_1421.txt,dryness,"( 39,46)",Signs and Symptoms
+120,sentence_1202,sentence_1202.txt,SLE,"( 148,151)",Associated Conditions
+430,sentence_1912,sentence_1912.txt,sialendoscopy,"( 15,28)",Diagnostic Tests
+859,sentence_842,sentence_842.txt,Sicca,"( 82,87)",Signs and Symptoms
+717,sentence_610,sentence_610.txt,sicca symptoms,"( 186,200)",Signs and Symptoms
+535,sentence_286,sentence_286.txt,pulmonary fibrosis,"( 177,195)",Associated Conditions
+1591,sentence_2445,sentence_2445.txt,systemic lupus erythematosus,"( 166,194)",Associated Conditions
+416,sentence_1887,sentence_1887.txt,ocular and oral dryness,"( 47,70)",Signs and Symptoms
+1598,sentence_2446,sentence_2446.txt,parotitis,"( 101,110)",Signs and Symptoms
+1117,sentence_2113,sentence_2113.txt,CCL21,"( 0,5)",Diagnostic Tests
+817,sentence_745,sentence_745.txt,dry eyes.,"( 223,232)",Signs and Symptoms
+243,sentence_1489,sentence_1489.txt,dry mouth,"( 34,43)",Signs and Symptoms
+814,sentence_740,sentence_740.txt,Schirmer's test,"( 13,28)",Diagnostic Tests
+443,sentence_1942,sentence_1942.txt,anti-Ro/SSA antibodies,"( 138,160)",Diagnostic Tests
+1514,sentence_2400,sentence_2400.txt,anti-Ro/SSA,"( 108,119)",Diagnostic Tests
+841,sentence_786,sentence_786.txt,SLE,"( 19,22)",Associated Conditions
+1455,sentence_2356,sentence_2356.txt,Sicca symptoms,"( 54,68)",Signs and Symptoms
+1203,sentence_2168,sentence_2168.txt,female,"( 22,28)",Risk Factors
+1625,sentence_2461,sentence_2461.txt,minor labial salivary and lachrymal gland biopsies,"( 134,184)",Diagnostic Tests
+1062,sentence_2086,sentence_2086.txt,ARFI,"( 54,58)",Diagnostic Tests
+529,sentence_282,sentence_282.txt,parotitis.,"( 102,112)",Signs and Symptoms
+286,sentence_163,sentence_163.txt,RA,"( 14,16)",Signs and Symptoms
+1720,sentence_2545,sentence_2545.txt,submandibular US,"( 45,61)",Diagnostic Tests
+1368,sentence_2308,sentence_2308.txt,dyspnea,"( 48,55)",Signs and Symptoms
+1693,sentence_2512,sentence_2512.txt,secondary amyloidosis,"( 90,111)",Associated Conditions
+790,sentence_688,sentence_688.txt,rheumatoid factor,"( 304,321)",Diagnostic Tests
+1513,sentence_2400,sentence_2400.txt,keratoconjunctivitis sicca,"( 65,91)",Signs and Symptoms
+610,sentence_394,sentence_394.txt,dysphagia,"( 139,148)",Signs and Symptoms
+683,sentence_542,sentence_542.txt,salivary gland ultrasonography,"( 137,167)",Diagnostic Tests
+924,sentence_2003,sentence_2003.txt,KCS,"( 27,30)",Signs and Symptoms
+316,sentence_1668,sentence_1668.txt,omarthritis,"( 84,95)",Associated Conditions
+1121,sentence_2117,sentence_2117.txt,parotid scintigraphy,"( 59,79)",Diagnostic Tests
+519,sentence_269,sentence_269.txt,dry mouth,"( 137,146)",Signs and Symptoms
+48,sentence_1050,sentence_1050.txt,Mann-Whitney U test,"( 35,54)",Diagnostic Tests
+1833,sentence_2685,sentence_2685.txt,parotid gland swelling,"( 32,54)",Signs and Symptoms
+1530,sentence_2407,sentence_2407.txt,chronic optic atrophy,"( 165,186)",Signs and Symptoms
+704,sentence_6,sentence_6.txt,DED,"( 79,82)",Signs and Symptoms
+573,sentence_354,sentence_354.txt,fatigue,"( 122,129)",Signs and Symptoms
+482,sentence_22,sentence_22.txt,ultrasonography,"( 9,24)",Diagnostic Tests
+533,sentence_286,sentence_286.txt,vasculitis,"( 149,159)",Associated Conditions
+277,sentence_1599,sentence_1599.txt,biopsy,"( 103,109)",Diagnostic Tests
+1257,sentence_2213,sentence_2213.txt,positive anti-SSA antibody,"( 67,93)",Diagnostic Tests
+113,sentence_1177,sentence_1177.txt,anti SSA antibody,"( 144,161)",Diagnostic Tests
+865,sentence_859,sentence_859.txt,conjunctival staining,"( 163,184)",Diagnostic Tests
+45,sentence_1043,sentence_1043.txt,vasculitis.,"( 262,273)",Associated Conditions
+1778,sentence_2599,sentence_2599.txt,hyperchloremic metabolic acidosis.,"( 56,90)",Associated Conditions
+524,sentence_277,sentence_277.txt,parotitis.,"( 103,113)",Signs and Symptoms
+920,sentence_2003,sentence_2003.txt,recurrent salivary gland swelling,"( 42,75)",Signs and Symptoms
+163,sentence_1330,sentence_1330.txt,dry eye,"( 46,53)",Signs and Symptoms
+850,sentence_810,sentence_810.txt,dry mouth,"( 50,59)",Signs and Symptoms
+771,sentence_672,sentence_672.txt,abnormal salivary scintigraphy,"( 35,65)",Diagnostic Tests
+36,sentence_1037,sentence_1037.txt,synovitis,"( 158,167)",Signs and Symptoms
+1517,sentence_2400,sentence_2400.txt,keratoconjunctivitis sicca,"( 65,91)",Signs and Symptoms
+497,sentence_250,sentence_250.txt,DED.,"( 62,66)",Signs and Symptoms
+511,sentence_264,sentence_264.txt,La/SSB,"( 197,203)",Diagnostic Tests
+1835,sentence_2687,sentence_2687.txt,B cell lymphoma,"( 29,44)",Associated Conditions
+1176,sentence_2138,sentence_2138.txt,eye manifestations,"( 248,266)",Signs and Symptoms
+372,sentence_1761,sentence_1761.txt,women,"( 114,119)",Risk Factors
+387,sentence_1826,sentence_1826.txt,dry eyes,"( 26,34)",Signs and Symptoms
+1104,sentence_2109,sentence_2109.txt,anti-SS-A and -SS-B titers.,"( 127,154)",Diagnostic Tests
+1149,sentence_2125,sentence_2125.txt,dry eye,"( 219,226)",Signs and Symptoms
+1714,sentence_2545,sentence_2545.txt,Parotid sialography,"( 9,28)",Diagnostic Tests
+177,sentence_1359,sentence_1359.txt,sialoadenitis,"( 23,36)",Associated Conditions
+1750,sentence_2573,sentence_2573.txt,xerostomia.,"( 195,206)",Signs and Symptoms
+1214,sentence_2186,sentence_2186.txt,66-year-old,"( 2,13)",Risk Factors
+323,sentence_168,sentence_168.txt,RA diagnosis,"( 89,101)",Signs and Symptoms
+322,sentence_168,sentence_168.txt,thrombocytopenia,"( 113,129)",Signs and Symptoms
+335,sentence_170,sentence_170.txt,anti-SSA,"( 43,51)",Diagnostic Tests
+1543,sentence_2409,sentence_2409.txt,optic neuropathy.,"( 172,189)",Associated Conditions
+855,sentence_828,sentence_828.txt,dyspnoea,"( 270,278)",Signs and Symptoms
+1700,sentence_2526,sentence_2526.txt,vasculitides,"( 28,40)",Associated Conditions
+890,sentence_905,sentence_905.txt,dry mouth,"( 176,185)",Signs and Symptoms
+1810,sentence_2643,sentence_2643.txt,Lymphocytic infiltration,"( 0,24)",Diagnostic Tests
+308,sentence_1662,sentence_1662.txt,systemic sclerosis,"( 236,254)",Signs and Symptoms
+418,sentence_1896,sentence_1896.txt,sicca,"( 14,19)",Signs and Symptoms
+1460,sentence_2357,sentence_2357.txt,ganglionopathy,"( 30,44)",Associated Conditions
+427,sentence_1911,sentence_1911.txt,Xerostomia,"( 191,201)",Signs and Symptoms
+543,sentence_30,sentence_30.txt,parotid scintigraphy,"( 33,53)",Diagnostic Tests
+499,sentence_255,sentence_255.txt,DED,"( 21,24)",Signs and Symptoms
+504,sentence_26,sentence_26.txt,oral thrush.,"( 37,49)",Signs and Symptoms
+1245,sentence_2202,sentence_2202.txt,Salivary glands ultrasound,"( 12,38)",Diagnostic Tests
+450,sentence_1948,sentence_1948.txt,dry eye.,"( 227,235)",Signs and Symptoms
+1453,sentence_2353,sentence_2353.txt,positive Ro antibodies.,"( 48,71)",Diagnostic Tests
+887,sentence_9,sentence_9.txt,DED,"( 74,77)",Signs and Symptoms
+1608,sentence_2446,sentence_2446.txt,lymphoma,"( 145,153)",Associated Conditions
+894,sentence_911,sentence_911.txt,ultrasonography,"( 62,77)",Diagnostic Tests
+1260,sentence_2215,sentence_2215.txt,oral symptoms,"( 104,117)",Signs and Symptoms
+371,sentence_1761,sentence_1761.txt,dryness of the eyes,"( 58,77)",Signs and Symptoms
+268,sentence_1581,sentence_1581.txt,sialography,"( 34,45)",Diagnostic Tests
+1660,sentence_2483,sentence_2483.txt,sicca symptoms,"( 34,48)",Signs and Symptoms
+569,sentence_354,sentence_354.txt,"Schirmer's test, basal/stimulated salivary flow-rate values","( 248,307)",Diagnostic Tests
+775,sentence_676,sentence_676.txt,rheumatoid arthritis,"( 92,112)",Associated Conditions
+951,sentence_2012,sentence_2012.txt,women,"( 35,40)",Risk Factors
+1754,sentence_2576,sentence_2576.txt,polyneuropathy,"( 39,53)",Signs and Symptoms
+792,sentence_688,sentence_688.txt,multiple dental caries,"( 364,386)",Signs and Symptoms
+889,sentence_905,sentence_905.txt,dry eye,"( 162,169)",Signs and Symptoms
+187,sentence_1371,sentence_1371.txt,Anti-Ro test,"( 0,12)",Diagnostic Tests
+296,sentence_1638,sentence_1638.txt,sialochemistry,"( 123,137)",Diagnostic Tests
+1699,sentence_2520,sentence_2520.txt,immunohistochemistry,"( 63,83)",Diagnostic Tests
+1768,sentence_2595,sentence_2595.txt,lymphocytic sialadenitits,"( 49,74)",Associated Conditions
+640,sentence_483,sentence_483.txt,glandular enlargement,"( 78,99)",Signs and Symptoms
+1181,sentence_2140,sentence_2140.txt,SLE,"( 59,62)",Associated Conditions
+614,sentence_397,sentence_397.txt,connective tissue disease,"( 52,77)",Associated Conditions
+965,sentence_2024,sentence_2024.txt,Bronchiectasis,"( 0,14)",Associated Conditions
+250,sentence_15,sentence_15.txt,keratoconjunctivitis sicca,"( 58,84)",Signs and Symptoms
+190,sentence_1391,sentence_1391.txt,dryness,"( 57,64)",Signs and Symptoms
+1626,sentence_2463,sentence_2463.txt,females,"( 57,64)",Risk Factors
+757,sentence_667,sentence_667.txt,rheumatoid arthritis,"( 87,107)",Associated Conditions
+142,sentence_1264,sentence_1264.txt,woman,"( 41,46)",Risk Factors
+1400,sentence_2321,sentence_2321.txt,myopathic face,"( 65,79)",Signs and Symptoms
+1672,sentence_2490,sentence_2490.txt,chronic hepatitis C,"( 161,180)",Associated Conditions
+1024,sentence_2057,sentence_2057.txt,rheumatoid arthritis,"( 128,148)",Associated Conditions
+909,sentence_957,sentence_957.txt,lymphoma.,"( 174,183)",Associated Conditions
+1623,sentence_2451,sentence_2451.txt,SS-B,"( 165,169)",Signs and Symptoms
+1055,sentence_2077,sentence_2077.txt,anemia,"( 33,39)",Signs and Symptoms
+722,sentence_617,sentence_617.txt,sicca,"( 83,88)",Signs and Symptoms
+999,sentence_2039,sentence_2039.txt,high IHC scores of membranous EpEX,"( 13,47)",Risk Factors
+1094,sentence_2101,sentence_2101.txt,sialochemistry,"( 161,175)",Diagnostic Tests
+685,sentence_550,sentence_550.txt,Salivary gland enlargements,"( 0,27)",Signs and Symptoms
+1471,sentence_2369,sentence_2369.txt,Xerostomia,"( 0,10)",Signs and Symptoms
+1721,sentence_2546,sentence_2546.txt,peripheral sialoectatic changes,"( 61,92)",Diagnostic Tests
+600,sentence_377,sentence_377.txt,postmenopausal years.,"( 150,171)",Risk Factors
+777,sentence_681,sentence_681.txt,anti-Ro/SSA,"( 140,151)",Diagnostic Tests
+1358,sentence_2302,sentence_2302.txt,multifocal leukoencephalopathy,"( 22,52)",Associated Conditions
+929,sentence_2004,sentence_2004.txt,mean lacrimal flow,"( 48,66)",Diagnostic Tests
+1424,sentence_2342,sentence_2342.txt,progressive bilateral lower limb weakness.,"( 99,141)",Signs and Symptoms
+1018,sentence_2053,sentence_2053.txt,oesophageal webs.,"( 118,135)",Signs and Symptoms
+1481,sentence_2382,sentence_2382.txt,poly)arthritis,"( 74,88)",Associated Conditions
+1221,sentence_2194,sentence_2194.txt,ultrasonographic assessment of the salivary glands,"( 56,106)",Diagnostic Tests
+1162,sentence_2127,sentence_2127.txt,pain and fatigue,"( 135,151)",Signs and Symptoms
+588,sentence_367,sentence_367.txt,biomarker positivity,"( 206,226)",Diagnostic Tests
+1609,sentence_2446,sentence_2446.txt,infectious parotitis,"( 155,175)",Signs and Symptoms
+937,sentence_2007,sentence_2007.txt,Extraglandular manifestations,"( 0,29)",Associated Conditions
+122,sentence_1204,sentence_1204.txt,fatigue,"( 177,184)",Signs and Symptoms
+1615,sentence_2449,sentence_2449.txt,keratoconjunctivitis sicca,"( 141,167)",Signs and Symptoms
+546,sentence_300,sentence_300.txt,fatigue,"( 37,44)",Signs and Symptoms
+1142,sentence_2124,sentence_2124.txt,parotid scintigraphy,"( 66,86)",Diagnostic Tests
+1510,sentence_2397,sentence_2397.txt,cardiac arrhythmias.,"( 79,99)",Signs and Symptoms
+1665,sentence_2484,sentence_2484.txt,Eye and/or mouth dryness,"( 0,24)",Signs and Symptoms
+357,sentence_1726,sentence_1726.txt,systemic sclerosis,"( 249,267)",Associated Conditions
+201,sentence_1415,sentence_1415.txt,Dryness,"( 9,16)",Signs and Symptoms
+882,sentence_888,sentence_888.txt,anti-Ro/SS,"( 27,37)",Diagnostic Tests
+1488,sentence_2382,sentence_2382.txt,Hashimoto's disease.,"( 149,169)",Associated Conditions
+472,sentence_204,sentence_204.txt,tracheobronchial disease.,"( 80,105)",Associated Conditions
+975,sentence_2029,sentence_2029.txt,bronchiectasis,"( 31,45)",Associated Conditions
+1797,sentence_2607,sentence_2607.txt,weakness,"( 55,63)",Signs and Symptoms
+1198,sentence_2155,sentence_2155.txt,xerophthalmia,"( 86,99)",Signs and Symptoms
+590,sentence_368,sentence_368.txt,SS-B/La,"( 151,158)",Diagnostic Tests
+1390,sentence_2319,sentence_2319.txt,tea-colored urine,"( 104,121)",Signs and Symptoms
+425,sentence_1908,sentence_1908.txt,xerostomia,"( 407,417)",Signs and Symptoms
+212,sentence_1422,sentence_1422.txt,fatigue,"( 73,80)",Signs and Symptoms
+172,sentence_1355,sentence_1355.txt,xerostomia/xerophthalmia,"( 147,171)",Signs and Symptoms
+396,sentence_1837,sentence_1837.txt,salivary gland biopsy,"( 2,23)",Diagnostic Tests
+1821,sentence_2645,sentence_2645.txt,fatigue,"( 144,151)",Signs and Symptoms
+27,sentence_1023,sentence_1023.txt,arthritis,"( 193,202)",Signs and Symptoms
+362,sentence_1735,sentence_1735.txt,anti-Ro antibodies,"( 87,105)",Associated Conditions
+1097,sentence_2104,sentence_2104.txt,glandular and extraglandular manifestations,"( 72,115)",Associated Conditions
+390,sentence_1828,sentence_1828.txt,salivary gland biopsy,"( 48,69)",Signs and Symptoms
+1241,sentence_2199,sentence_2199.txt,Female,"( 8,14)",Risk Factors
+1487,sentence_2382,sentence_2382.txt,discoid lupus erythematosus (LE,"( 90,121)",Associated Conditions
+1772,sentence_2598,sentence_2598.txt,mild dyspnea.,"( 79,92)",Signs and Symptoms
+42,sentence_1041,sentence_1041.txt,xerostomia,"( 92,102)",Signs and Symptoms
+1562,sentence_2420,sentence_2420.txt,xerostomia,"( 65,75)",Signs and Symptoms
+1047,sentence_2075,sentence_2075.txt,dyspnea,"( 50,57)",Signs and Symptoms
+674,sentence_526,sentence_526.txt,lymphoma.,"( 112,121)",Signs and Symptoms
+493,sentence_246,sentence_246.txt,lymphadenopathy,"( 152,167)",Associated Conditions
+977,sentence_2029,sentence_2029.txt,anti-smooth muscle--SMAantibodies,"( 144,177)",Diagnostic Tests
+531,sentence_286,sentence_286.txt,dry mouth,"( 50,59)",Signs and Symptoms
+1357,sentence_2302,sentence_2302.txt,systemic lupus erythematosus (SLE,"( 103,136)",Associated Conditions
+1474,sentence_2369,sentence_2369.txt,xerophthalmia,"( 15,28)",Signs and Symptoms
+527,sentence_278,sentence_278.txt,minor salivary gland biopsy,"( 61,88)",Diagnostic Tests
+1445,sentence_2350,sentence_2350.txt,woman,"( 35,40)",Risk Factors
+1550,sentence_2410,sentence_2410.txt,female,"( 14,20)",Risk Factors
+80,sentence_11,sentence_11.txt,"chronic fatigue,","( 271,287)",Associated Conditions
+1224,sentence_2196,sentence_2196.txt,xerophthalmia,"( 72,85)",Signs and Symptoms
+505,sentence_260,sentence_260.txt,DED,"( 138,141)",Signs and Symptoms
+736,sentence_654,sentence_654.txt,keratoconjunctivitis sicca.,"( 160,187)",Signs and Symptoms
+1813,sentence_2643,sentence_2643.txt,fatigue,"( 300,307)",Signs and Symptoms
+680,sentence_536,sentence_536.txt,ILD,"( 77,80)",Associated Conditions
+1539,sentence_2409,sentence_2409.txt,anti-La/SSB,"( 59,70)",Diagnostic Tests
+870,sentence_869,sentence_869.txt,sicca,"( 8,13)",Signs and Symptoms
+233,sentence_1455,sentence_1455.txt,xerostomia,"( 299,309)",Signs and Symptoms
+555,sentence_328,sentence_328.txt,malignant lymphoma.,"( 86,105)",Associated Conditions
+326,sentence_1681,sentence_1681.txt,depression,"( 233,243)",Signs and Symptoms
+476,sentence_211,sentence_211.txt,chronic cough.,"( 44,58)",Signs and Symptoms
+1110,sentence_2111,sentence_2111.txt,CCL21 levels.,"( 114,127)",Diagnostic Tests
+82,sentence_11,sentence_11.txt,musculoskeletal pain,"( 288,308)",Associated Conditions
+164,sentence_1330,sentence_1330.txt,dry eye,"( 124,131)",Signs and Symptoms
+102,sentence_116,sentence_116.txt,anti-SSA/Ro,"( 162,173)",Diagnostic Tests
+428,sentence_1912,sentence_1912.txt,Xerostomia,"( 159,169)",Signs and Symptoms
+967,sentence_2026,sentence_2026.txt,bronchiectasis,"( 171,185)",Associated Conditions
+1404,sentence_2321,sentence_2321.txt,myopathic face,"( 65,79)",Signs and Symptoms
+1538,sentence_2409,sentence_2409.txt,anti-Ro/SSA,"( 46,57)",Diagnostic Tests
+839,sentence_783,sentence_783.txt,systemic lupus erythematosus,"( 53,81)",Associated Conditions
+1676,sentence_2496,sentence_2496.txt,fatigue,"( 31,38)",Signs and Symptoms
+1602,sentence_2446,sentence_2446.txt,parvovirus,"( 305,315)",Signs and Symptoms
+803,sentence_709,sentence_709.txt,DED,"( 26,29)",Signs and Symptoms
+1165,sentence_2128,sentence_2128.txt,objective measurements of tear and saliva production,"( 75,127)",Diagnostic Tests
+193,sentence_1394,sentence_1394.txt,ocular tests,"( 127,139)",Diagnostic Tests
+71,sentence_1086,sentence_1086.txt,vasculitis.,"( 86,97)",Signs and Symptoms
+762,sentence_67,sentence_67.txt,dryness,"( 263,270)",Signs and Symptoms
+1499,sentence_2389,sentence_2389.txt,minor salivary gland biopsy,"( 70,97)",Diagnostic Tests
+426,sentence_1908,sentence_1908.txt,Xerostomia,"( 510,520)",Signs and Symptoms
+652,sentence_497,sentence_497.txt,Fatigue,"( 0,7)",Signs and Symptoms
+759,sentence_668,sentence_668.txt,salivary scintigraphy,"( 114,135)",Diagnostic Tests
+51,sentence_1069,sentence_1069.txt,antigen A (SS-A),"( 103,119)",Diagnostic Tests
+1844,sentence_2696,sentence_2696.txt,dental caries,"( 46,59)",Associated Conditions
+844,sentence_792,sentence_792.txt,SLE,"( 82,85)",Associated Conditions
+1784,sentence_2601,sentence_2601.txt,antibodies to SSA and,"( 75,96)",Diagnostic Tests
+880,sentence_887,sentence_887.txt,unstimulated salivary flow rate,"( 31,62)",Diagnostic Tests
+334,sentence_170,sentence_170.txt,Xerostomia,"( 0,10)",Signs and Symptoms
+439,sentence_1940,sentence_1940.txt,Salivary gland ultrasonography,"( 0,30)",Diagnostic Tests
+1690,sentence_2510,sentence_2510.txt,dry eyes,"( 44,52)",Signs and Symptoms
+706,sentence_600,sentence_600.txt,female.,"( 18,25)",Risk Factors
+1367,sentence_2306,sentence_2306.txt,peripheral neuropathy,"( 208,229)",Associated Conditions
+1298,sentence_2256,sentence_2256.txt,minor salivary gland inflammation,"( 79,112)",Signs and Symptoms
+1052,sentence_2076,sentence_2076.txt,Raynaud's phenomenon,"( 173,193)",Associated Conditions
+458,sentence_1962,sentence_1962.txt,thrombocytopenia,"( 148,164)",Signs and Symptoms
+595,sentence_374,sentence_374.txt,65years of age,"( 83,97)",Risk Factors
+992,sentence_2033,sentence_2033.txt,labial salivary gland biopsy,"( 109,137)",Diagnostic Tests
+69,sentence_1086,sentence_1086.txt,myalgia,"( 62,69)",Signs and Symptoms
+1266,sentence_2220,sentence_2220.txt,dry eyes,"( 31,39)",Signs and Symptoms
+1531,sentence_2407,sentence_2407.txt,neuromyelitis optica,"( 209,229)",Signs and Symptoms
+823,sentence_760,sentence_760.txt,xerostomia,"( 101,111)",Signs and Symptoms
+1828,sentence_2679,sentence_2679.txt,salivary gland biopsy3,"( 161,183)",Diagnostic Tests
+1013,sentence_2052,sentence_2052.txt,women,"( 24,29)",Risk Factors
+944,sentence_2009,sentence_2009.txt,KCS,"( 105,108)",Signs and Symptoms
+403,sentence_1844,sentence_1844.txt,dry mouth,"( 67,76)",Signs and Symptoms
+1746,sentence_2571,sentence_2571.txt,peripheral neuropathy,"( 49,70)",Associated Conditions
+1723,sentence_2546,sentence_2546.txt,sialography,"( 96,107)",Diagnostic Tests
+825,sentence_760,sentence_760.txt,xerophthalmia,"( 133,146)",Signs and Symptoms
+385,sentence_1822,sentence_1822.txt,female,"( 80,86)",Risk Factors
+1519,sentence_2400,sentence_2400.txt,anti-La/SSB antibodies,"( 127,149)",Diagnostic Tests
+1656,sentence_2482,sentence_2482.txt,eyes and mouth dryness,"( 103,125)",Signs and Symptoms
+1820,sentence_2644,sentence_2644.txt,glomerulonephritis,"( 94,112)",Associated Conditions
+160,sentence_1329,sentence_1329.txt,dry eye,"( 168,175)",Signs and Symptoms
+596,sentence_374,sentence_374.txt,women.,"( 115,121)",Risk Factors
+537,sentence_29,sentence_29.txt,middle-aged woman,"( 64,81)",Risk Factors
+1032,sentence_2060,sentence_2060.txt,SLE,"( 102,105)",Associated Conditions
+747,sentence_659,sentence_659.txt,salivary gland biopsy,"( 179,200)",Diagnostic Tests
+696,sentence_579,sentence_579.txt,lymphoma,"( 93,101)",Associated Conditions
+141,sentence_1257,sentence_1257.txt,parotid enlargement,"( 52,71)",Signs and Symptoms
+194,sentence_14,sentence_14.txt,mononuclear cell infiltration,"( 93,122)",Diagnostic Tests
+1636,sentence_2466,sentence_2466.txt,fatigue,"( 29,36)",Signs and Symptoms
+1106,sentence_2109,sentence_2109.txt,anti-SS-A and -SS-B titers.,"( 127,154)",Diagnostic Tests
+1747,sentence_2573,sentence_2573.txt,xerophthalmia,"( 177,190)",Signs and Symptoms
+746,sentence_659,sentence_659.txt,dry mouth,"( 67,76)",Signs and Symptoms
+776,sentence_678,sentence_678.txt,xerostomia.,"( 144,155)",Signs and Symptoms
+460,sentence_1966,sentence_1966.txt,hypokalaemia.,"( 162,175)",Signs and Symptoms
+764,sentence_67,sentence_67.txt,gland biopsy.,"( 366,379)",Diagnostic Tests
+815,sentence_744,sentence_744.txt,Dry mouth,"( 0,9)",Signs and Symptoms
+1441,sentence_2348,sentence_2348.txt,positive anti-SSA/SSB levels,"( 51,79)",Diagnostic Tests
+947,sentence_2009,sentence_2009.txt,KCS,"( 105,108)",Signs and Symptoms
+649,sentence_49,sentence_49.txt,women,"( 34,39)",Risk Factors
+1070,sentence_2091,sentence_2091.txt,Renal Tubular Acidosis,"( 99,122)",Associated Conditions
+1680,sentence_2505,sentence_2505.txt,localized amyloidosis,"( 66,87)",Associated Conditions
+1811,sentence_2643,sentence_2643.txt,dry eye,"( 219,226)",Signs and Symptoms
+1129,sentence_2118,sentence_2118.txt,low CH50,"( 285,293)",Diagnostic Tests
+1732,sentence_2550,sentence_2550.txt,submandibular US,"( 116,132)",Diagnostic Tests
+63,sentence_1079,sentence_1079.txt,ILD,"( 18,21)",Associated Conditions
+1436,sentence_2346,sentence_2346.txt,recent weight loss.,"( 64,83)",Signs and Symptoms
+766,sentence_670,sentence_670.txt,tear break-up time,"( 48,66)",Diagnostic Tests
+1413,sentence_2328,sentence_2328.txt,DM,"( 12,14)",Associated Conditions
+1711,sentence_2539,sentence_2539.txt,La-positive,"( 83,94)",Diagnostic Tests
+1403,sentence_2321,sentence_2321.txt,pelvic-girdle weakness,"( 41,63)",Signs and Symptoms
+1776,sentence_2599,sentence_2599.txt,hypokalemia,"( 39,50)",Associated Conditions
+1146,sentence_2125,sentence_2125.txt,fatigue,"( 300,307)",Signs and Symptoms
+1737,sentence_2551,sentence_2551.txt,sialography,"( 74,85)",Diagnostic Tests
+1396,sentence_2320,sentence_2320.txt,mechanic hands.,"( 73,88)",Signs and Symptoms
+365,sentence_1740,sentence_1740.txt,parotid swelling,"( 121,137)",Signs and Symptoms
+749,sentence_660,sentence_660.txt,elderly,"( 23,30)",Risk Factors
+1408,sentence_2324,sentence_2324.txt,anti-SSA/Ro antibody,"( 47,67)",Diagnostic Tests
+1301,sentence_2256,sentence_2256.txt,fatigue,"( 140,147)",Signs and Symptoms
+470,sentence_202,sentence_202.txt,anti-SSA (anti-Ro) antibody,"( 42,69)",Diagnostic Tests
+1466,sentence_2361,sentence_2361.txt,sarcoidosis,"( 150,161)",Associated Conditions
+1525,sentence_2404,sentence_2404.txt,neuritis,"( 48,56)",Signs and Symptoms
+1046,sentence_2074,sentence_2074.txt,woman.,"( 172,178)",Risk Factors
+782,sentence_684,sentence_684.txt,anti-SSA antibody,"( 96,113)",Diagnostic Tests
+132,sentence_1239,sentence_1239.txt,chronic obstructive pulmonary disease (COPD),"( 69,113)",Associated Conditions
+1360,sentence_2306,sentence_2306.txt,xerosis,"( 77,84)",Signs and Symptoms
+885,sentence_890,sentence_890.txt,anti-Ro/SS-A,"( 25,37)",Diagnostic Tests
+112,sentence_1175,sentence_1175.txt,systemic lupus erythematosus.,"( 147,176)",Associated Conditions
+507,sentence_262,sentence_262.txt,middle-aged women,"( 35,52)",Risk Factors
+59,sentence_1075,sentence_1075.txt,dry eyes,"( 78,86)",Signs and Symptoms
+1314,sentence_2263,sentence_2263.txt,La/SSB were,"( 43,54)",Diagnostic Tests
+796,sentence_692,sentence_692.txt,dry eye disease,"( 120,135)",Signs and Symptoms
+864,sentence_859,sentence_859.txt,tear clearance,"( 118,132)",Diagnostic Tests
+574,sentence_357,sentence_357.txt,Dry eyes/throat/vagina,"( 0,22)",Signs and Symptoms
+1597,sentence_2446,sentence_2446.txt,parotitis,"( 166,175)",Diagnostic Tests
+1504,sentence_2393,sentence_2393.txt,heart palpitation,"( 48,65)",Signs and Symptoms
+195,sentence_1402,sentence_1402.txt,woman,"( 44,49)",Signs and Symptoms
+695,sentence_577,sentence_577.txt,lymphoma,"( 165,173)",Associated Conditions
+1619,sentence_2449,sentence_2449.txt,focal sialadenitis,"( 169,187)",Signs and Symptoms
+496,sentence_248,sentence_248.txt,female,"( 54,60)",Risk Factors
+1313,sentence_2263,sentence_2263.txt,Ro/SSA,"( 29,35)",Diagnostic Tests
+128,sentence_1232,sentence_1232.txt,anti-Ro,"( 62,69)",Diagnostic Tests
+292,sentence_1637,sentence_1637.txt,sicca,"( 52,57)",Signs and Symptoms
+881,sentence_888,sentence_888.txt,anti-La/SS-B,"( 44,56)",Diagnostic Tests
+1076,sentence_2093,sentence_2093.txt,minor salivary gland biopsy.,"( 126,154)",Diagnostic Tests
+1389,sentence_2319,sentence_2319.txt,myalgia,"( 95,102)",Signs and Symptoms
+1731,sentence_2550,sentence_2550.txt,sialography,"( 100,111)",Diagnostic Tests
+646,sentence_484,sentence_484.txt,anti-Ro,"( 50,57)",Diagnostic Tests
+840,sentence_784,sentence_784.txt,SLE,"( 20,23)",Associated Conditions
+1218,sentence_2190,sentence_2190.txt,necrotizing keratoscleritis,"( 27,54)",Associated Conditions
+1157,sentence_2126,sentence_2126.txt,peripheral neuropathy,"( 71,92)",Associated Conditions
+1342,sentence_2292,sentence_2292.txt,female,"( 18,24)",Risk Factors
+1085,sentence_2098,sentence_2098.txt,Hypokalemic paralysis,"( 0,21)",Associated Conditions
+582,sentence_365,sentence_365.txt,chronic dry cough,"( 161,178)",Signs and Symptoms
+424,sentence_1907,sentence_1907.txt,sialendoscopy,"( 86,99)",Diagnostic Tests
+1095,sentence_2101,sentence_2101.txt,EULAR Sjgren's Syndrome Disease Activity Index: ESSDAI,"( 225,279)",Diagnostic Tests
+551,sentence_312,sentence_312.txt,storiform fibrosis,"( 176,194)",Associated Conditions
+1506,sentence_2394,sentence_2394.txt,dry mouth,"( 37,46)",Signs and Symptoms
+1173,sentence_2133,sentence_2133.txt,EULAR indexes,"( 5,18)",Diagnostic Tests
+253,sentence_1519,sentence_1519.txt,dry eye,"( 58,65)",Signs and Symptoms
+109,sentence_1172,sentence_1172.txt,proteinuria,"( 163,174)",Signs and Symptoms
+328,sentence_1682,sentence_1682.txt,Symptoms,"( 0,8)",Signs and Symptoms
+1213,sentence_2186,sentence_2186.txt,female,"( 14,20)",Risk Factors
+1546,sentence_2410,sentence_2410.txt,fatigue,"( 95,102)",Signs and Symptoms
+559,sentence_335,sentence_335.txt,dry eye,"( 45,52)",Signs and Symptoms
+1540,sentence_2409,sentence_2409.txt,optic neuropathy.,"( 172,189)",Associated Conditions
+1361,sentence_2306,sentence_2306.txt,interstitial lung disease,"( 131,156)",Associated Conditions
+1735,sentence_2550,sentence_2550.txt,submandibular US,"( 116,132)",Diagnostic Tests
+1757,sentence_2577,sentence_2577.txt,typical neuromyotonia,"( 37,58)",Signs and Symptoms
+1371,sentence_2309,sentence_2309.txt,erythrocyte sedimentation rate,"( 83,113)",Diagnostic Tests
+684,sentence_544,sentence_544.txt,sialometry,"( 62,72)",Diagnostic Tests
