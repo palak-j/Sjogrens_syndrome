@@ -52,8 +52,8 @@ Each row is a directed edge: `cause_entity → effect_entity` with optional conf
 
 ## More Details here:
 
-- Pipeline & architecture: `docs/method.md`
-- Reproducibility checklist: `docs/reproduction.md`
+- Pipeline & architecture: [Method](docs/method.md)
+- Reproducibility checklist: [Reproduction](docs/reproduction.md)
 
 ---
 
