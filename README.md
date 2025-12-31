@@ -23,8 +23,8 @@ Given biomedical abstracts (e.g., PubMed), the system:
 
 <img width="789" height="742" alt="image" src="https://github.com/user-attachments/assets/a033eeda-0d4e-4dac-a3a8-132b1cf9c649" />
 
----
 
+---
 
 ## Why this matters
 
@@ -45,7 +45,15 @@ Each line is one document (e.g., PubMed abstract).
 Each row is a directed edge: `cause_entity → effect_entity` with optional confidence.
 
 ---
+
 <img width="895" height="451" alt="image" src="https://github.com/user-attachments/assets/e856dd74-6be1-4836-8665-85057eaf03a8" />
+
+---
+
+## More Details here:
+
+- Pipeline & architecture: `docs/method.md`
+- Reproducibility checklist: `docs/reproduction.md`
 
 ---
 
