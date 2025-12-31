@@ -14,6 +14,8 @@ This repository accompanies the published paper:
 Given biomedical abstracts (e.g., PubMed), the system:
 
 1. **Finds causal sentences** (causal vs. non-causal classification)
+   <img width="764" height="81" alt="image" src="https://github.com/user-attachments/assets/51c6872c-e715-40a0-9fd8-18d934675692" />
+
 2. **Extracts causal relations** from those sentences by tagging spans as:
    - `C` = Cause phrase
    - `E` = Effect phrase
