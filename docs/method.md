@@ -42,6 +42,8 @@ Core components:
 
 The WHT allows efficient mixing of contextual information without adding trainable parameters, improving generalization across domains.
 
+<img width="819" height="378" alt="image" src="https://github.com/user-attachments/assets/2bc003f9-fd4f-45fb-a31b-5d1aa21cde41" />
+
 ---
 
 ### Training Strategy
